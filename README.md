@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thinuka Nuwanjith</h1>
 <h3 align="center">I am a Student in Sri Lanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drwatson7788&label=Profile%20views&color=0e75b6&style=flat" alt="drwatson7788" /> </p>
+<img align="right" alt="Coding" width="400" src="">
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=drwatson7788&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" alt="drwatson7788" /> </p>
 
 - 🏫 I’m currently learning on **Ananda College**
 
