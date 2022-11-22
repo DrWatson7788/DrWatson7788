@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vue.js and React.js**
 
-- 📫 How to reach me **in Discord**
+- 📫 How to reach me: *Discord ThinukaNotFound_#8575**
 
 - ⚡ Fun fact **People like Fun facts**
 
